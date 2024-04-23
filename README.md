@@ -1,2 +1,2 @@
 # DataScienceTechniques
-Course INST414: I practiced data science techniques using python terminal on GColab
+Data Science techniques I practiced using Python terminal on GColab for a INST414 Course at UMD 
